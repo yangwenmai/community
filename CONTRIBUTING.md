@@ -55,5 +55,5 @@ See [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewCommen
 
 Good resources:
 - [Effective Go](https://golang.org/doc/effective_go)
-- [Pingcap General advice](https://pingcap.github.io/style-guide/general.html)
+- [PingCAP General advice](https://pingcap.github.io/style-guide/general.html)
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
